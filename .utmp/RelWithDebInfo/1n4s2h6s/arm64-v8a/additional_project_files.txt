@@ -1,0 +1,17 @@
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h

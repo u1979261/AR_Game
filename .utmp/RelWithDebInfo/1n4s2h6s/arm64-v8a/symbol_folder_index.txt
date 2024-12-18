@@ -1,0 +1,1 @@
+C:\Users\ivanr\Desktop\UdG\4to\Interaccio\AR_Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\1n4s2h6s\obj\arm64-v8a
